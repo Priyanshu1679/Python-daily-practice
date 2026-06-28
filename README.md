@@ -1,1 +1,13 @@
-# Python-daily-practice
+# Python-daily-practice 
+
+# Python Day 1 – Absolute Basics
+1. What is Python?
+
+Python is a high-level, easy-to-read programming language used for:
+
+Web Development
+Automation
+Data Science
+Machine Learning
+AI
+Software Development
