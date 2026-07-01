@@ -12,7 +12,7 @@ Machine Learning
 AI
 Software Development
 
-# ======================================
+
 # Python Day 1 - Basics
 # Author: Priyanshu Mishra
-# ======================================
+
