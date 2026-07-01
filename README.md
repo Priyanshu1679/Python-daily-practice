@@ -14,6 +14,6 @@ Software Development
 
 
 # Python Day 1 - Basics
- # using print function to print anything in python complier
+ using print function to print anything in python complier
 # Author: Priyanshu Mishra
 
